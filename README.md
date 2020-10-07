@@ -23,9 +23,7 @@ _Special emphasis will be placed on the use of python and Matlab on Blanca._
 
 ### Prerequisites: 
 
-1) Sign up for a [Research Computing account](https://rcamp.rc.colorado.edu/accounts/account-request/create/verify/ucb).  _(Note: when responding to the question "Why are you requesting an account?", you can select the final option, "My research group has purchased condo nodes")._
-
-__PLEASE SIGN UP FOR YOUR ACCOUNT AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!__  
+1) Sign up for a [Research Computing account](https://rcamp.rc.colorado.edu/accounts/account-request/create/verify/ucb).  _(Note: when responding to the question "Why are you requesting an account?", you can select the final option, "My research group has purchased condo nodes"). ___Please sign up for your account at least 2 days in advance of the workshop__  
 
 2) Send an email requesting to be added to the blanca-papp partition to rc-help@colorado.edu and carbon copy am_itsup@colorado.edu.
 
