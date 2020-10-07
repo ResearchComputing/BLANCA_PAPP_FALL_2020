@@ -25,7 +25,7 @@ _Special emphasis will be placed on the use of python and Matlab on Blanca._
 
 1) Sign up for a [Research Computing account](https://rcamp.rc.colorado.edu/accounts/account-request/create/verify/ucb).  _(Note: when responding to the question "Why are you requesting an account?", you can select the final option, "My research group has purchased condo nodes"). __Please sign up for your account at least 2 days in advance of the workshop__  
 
-2) Send an email requesting to be added to the blanca-papp partition to rc-help@colorado.edu and carbon copy am_itsup@colorado.edu.
+2) Send an email requesting to be added to the blanca-papp partition to rc-help@colorado.edu and carbon copy David.Carlson@colorado.edu.
 
 3) Make sure your laptop or desktop has a Secure Shell (SSH) client software installed.  If you have Mac OS, this is already installed (via the "Terminal" application).  If you have Windows, there are many options such as [PuTTY](https://www.putty.org) and [GitBASH](https://gitforwindows.org).  
 
