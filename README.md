@@ -12,7 +12,7 @@ Andrew Monaghan, Research Computing, University of Colorado
 ### Description: 
 This tutorial will introduce you to the [Blanca](https://curc.readthedocs.io/en/latest/access/blanca.html) "condo" compute cluster at CU, which is managed by [CU Research Computing](https://www.colorado.edu/rc/) (RC). Your group has contributed a 32-core Intel Skylake compute node to Blanca. The node has a Tesla V100 GPU onboard. You have priority access to this compute node, in addition to preemptable access to an additional 200 compute nodes. 
 
-__Agenda__
+### Agenda
 * Overview of Blanca
 * Basic [Linux/Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Logging into RC](https://curc.readthedocs.io/en/latest/access/logging-in.html) 
